@@ -70,7 +70,7 @@ In addition, configure firewalls to unblock ICMP requests.
 ### Execution
 * Samantha da Rosa Machado
 
-* Cassiano da Silva Padillha
+* Cassiano de Mello Padillha
 
 * Marcelo Antonio Marotta
 
